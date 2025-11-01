@@ -1,5 +1,5 @@
 //Find first non-consecutive number
-//==================================
+//=================================
 
 function firstNonConsecutive(arr) {
   for (let i = 0; i < arr.length - 1; ++i) {
